@@ -18,3 +18,17 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#cabecera {
+    background: #33A;
+    color: white;
+    margin: 0;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 0.8em;
+}
